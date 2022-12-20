@@ -5,7 +5,7 @@
         │   ├── data_loader.py
         │   ├── capsnet.py
         │   └── test_capsnet.py
-        │   ├── lime.py
+        │   ├── explain.py
         │   └── test_capsnet.py
         |── Data
         │   ├── Train.csv
